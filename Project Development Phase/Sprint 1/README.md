@@ -7,5 +7,7 @@ Registration - 100%
 Confirmation Email - 50% (DEBUGGING)
 
 Authentication - 100%
+
 Login - 100%
+
 Dashboard - 100%
