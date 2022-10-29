@@ -4,7 +4,7 @@ Current Status (AS OF 29 Oct 2022 16:00)
 
 Registration - 100%
 
-Confirmation Email - 50% (DEBUGGING)
+Confirmation Email - 100% (DEBUGGING)
 
 Authentication - 100%
 
